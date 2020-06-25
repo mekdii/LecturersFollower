@@ -1,0 +1,27 @@
+
+.banner{
+    position: relative;
+    
+    margin: 0 auto;
+}
+.banner img{
+    width: 100%;
+}
+.heading{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 30%;
+    font-size: 60px;
+    font-weight: bold;
+}
+.two{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 50%;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
